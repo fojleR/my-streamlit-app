@@ -1,0 +1,8 @@
+# my-streamlit-app/requirements.txt
+# Update this to include only the necessary libraries for your Streamlit app
+streamlit
+tensorflow
+pandas
+numpy
+requests
+scikit-learn 
